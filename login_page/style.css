@@ -20,13 +20,13 @@ html,body{
 .wrapper{
   overflow: hidden;
   max-width: 390px;
-  backdrop-filter: blur(50px);
+  backdrop-filter: blur(80px);
   padding: 30px;
   border-radius: 5px;
   box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
 }
 .wrapper .title-text{
-  color: rgb(196, 236, 255);
+  color: #fff;
   display: flex;
   font-weight: bolder;
   width: 200%;
